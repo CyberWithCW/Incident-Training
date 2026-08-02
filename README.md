@@ -130,7 +130,6 @@ The `user` turn carries the detection context (incident type, asset, detection s
 
 ## Open items
 
-- **License:** not yet chosen. Add one before treating this as a public or shareable repository — worth deciding based on whether this stays an internal POC or becomes a distributable tool.
 - **Large file handling:** decide on Git LFS vs. external storage for the raw CSVs before the first real commit (see note above).
 - **Data sensitivity boundary:** confirm the local-only handling plan for real client data is in place (see guide Section 7) before any proprietary incident history is added to this repo or its history.
 
